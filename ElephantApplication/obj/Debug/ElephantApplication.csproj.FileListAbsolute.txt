@@ -1,0 +1,10 @@
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\bin\Debug\ElephantApplication.exe.config
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\bin\Debug\ElephantApplication.exe
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\bin\Debug\ElephantApplication.pdb
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\obj\Debug\ElephantApplication.csprojResolveAssemblyReference.cache
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\obj\Debug\ElephantApplication.Form1.resources
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\obj\Debug\ElephantApplication.Properties.Resources.resources
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\obj\Debug\ElephantApplication.csproj.GenerateResource.Cache
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\obj\Debug\ElephantApplication.csproj.CoreCompileInputs.cache
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\obj\Debug\ElephantApplication.exe
+C:\Users\COSC 420\source\repos\ElephantApplication\ElephantApplication\obj\Debug\ElephantApplication.pdb
